@@ -1,4 +1,4 @@
-# juspay_hackathon
+# Juspay Hackathon
 
 # Problem Statement
 
