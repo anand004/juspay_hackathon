@@ -17,3 +17,7 @@ Touch/Click : generates friction that should decelerate the rotation further by 
 Download the files cube.html and cube.js
 
 Open cube.html with a browser
+
+# Demo
+https://anand004.github.io/
+
